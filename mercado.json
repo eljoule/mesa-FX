@@ -1,7 +1,7 @@
 {
  "anclaje": 18.8055,
- "asof": "2026-11-02T10:10",
- "cierreAnterior": 18.7856,
+ "asof": "2026-11-03T06:08",
+ "cierreAnterior": 18.5649,
  "eventos": [
   {
    "confirmado": true,
@@ -78,16 +78,16 @@
    "valor": 18.7962
   }
  ],
- "fuente": "Bloomberg Línea 10:10 CDMX (spot 18.5631; última fila de tabla, verificada 10:47). UnoTV 18.79 es lectura matutina más vieja; diferencia explicada por movimiento intradía. Hoy es inhábil bancario: sin FIX",
+ "fuente": "Tribuna 6:08 (18.5823; cierre previo 18.5649) y Publimetro 7:58 (~18.56). FIX vigente: viernes 30 oct (18.7962); el de hoy sale ~12:00",
  "rangoDia": [
-  18.5557,
-  18.8198
+  18.5521,
+  18.6193
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 18.5631,
+ "spot": 18.5823,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [

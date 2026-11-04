@@ -465,7 +465,7 @@ const MesaFX = (function () {
     const ruta = elig.slice(0, 8).map(x => ({ date: x, px: predicted(d, x), best: x === best, ref: x === ref }));
     if (!ruta.some(r => r.best)) ruta.push({ date: best, px: bestPx, best: true, ref: false });
     const single = {
-      day: best, dayText: fmtDate(best), window: rBest >= 2 ? '10:00–12:00' : windowText(best), risk: rBest, instrument: instr,
+      day: best, dayText: fmtDate(best), window: rBest >= 2 ? ((best === today && hour >= 12) ? 'hoy, antes de las 13:00' : '10:00–12:00') : windowText(best), risk: rBest, instrument: instr,
       px: bestPx, refDay: ref, refPx: refPx, modo: modo, ahorro: ahorro, ahorroMXN: ahorro * o.usd, conf: conf, noEdge: noEdge, ruta: ruta,
       bullets: bullets,
       alt: days.length > 1 ? 'Si no tienes prisa: orden limitada en ' + s1.toFixed(2) + ' vigente hasta ' + fmtDate(resDay, 'short') + '. Si no se llena, compra a mercado el ' + ld + ' entre 9:00 y 11:00.' : ''

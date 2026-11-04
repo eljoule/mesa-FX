@@ -1,7 +1,7 @@
 {
- "anclaje": 18.8055,
- "asof": "2026-11-03T06:08",
- "cierreAnterior": 18.5649,
+ "anclaje": 18.7901,
+ "asof": "2026-11-04T08:02",
+ "cierreAnterior": 18.8208,
  "eventos": [
   {
    "confirmado": true,
@@ -65,8 +65,8 @@
   "2027-02-15",
   "2027-03-15"
  ],
- "fix": 18.7962,
- "fixFecha": "2026-10-30",
+ "fix": 18.7592,
+ "fixFecha": "2026-11-03",
  "fixHoy": null,
  "fixes": [
   {
@@ -76,18 +76,22 @@
   {
    "fecha": "2026-10-30",
    "valor": 18.7962
+  },
+  {
+   "fecha": "2026-11-03",
+   "valor": 18.7592
   }
  ],
- "fuente": "Tribuna 6:08 (18.5823; cierre previo 18.5649) y Publimetro 7:58 (~18.56). FIX vigente: viernes 30 oct (18.7962); el de hoy sale ~12:00",
+ "fuente": "Tribuna 8:02 (18.6806; cierre previo 18.8208) y El Independiente ~9:22 (18.66–18.68, tras triunfo demócrata en EE.UU.). FIX vigente: 3 nov (18.7592); el de hoy sale ~12:00",
  "rangoDia": [
-  18.5521,
-  18.6193
+  18.5756,
+  18.8701
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 18.5823,
+ "spot": 18.6806,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [

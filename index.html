@@ -661,9 +661,12 @@ const MesaFX = (function () {
   function loadData(manual) {
     if (loading) return;
     loading = true; note = ''; renderAge();
-    fetch('mercado.json?t=' + Date.now(), { cache: 'no-store' }).then(function (r) { if (!r.ok) throw 0; return r.json(); }).then(function (v) {
-      var ok = v && typeof v.spot === 'number' && typeof v.asof === 'string' && Array.isArray(v.soporte) && Array.isArray(v.techo) && Array.isArray(v.eventos) && Array.isArray(v.festivos);
-      if (!ok) throw 0;
+    var get = function (u) { return fetch(u + '?t=' + Date.now(), { cache: 'no-store' }).then(function (r) { if (!r.ok) throw 0; return r.json(); }).catch(function () { return null; }); };
+    var ok = function (v) { return v && typeof v.spot === 'number' && typeof v.asof === 'string' && Array.isArray(v.soporte) && Array.isArray(v.techo) && Array.isArray(v.eventos) && Array.isArray(v.festivos); };
+    Promise.all([get('https://raw.githubusercontent.com/eljoule/mesa-fx/claude/datos/mercado.json'), get('mercado.json')]).then(function (r) {
+      var c = r.filter(ok).sort(function (a, b) { return a.asof < b.asof ? 1 : -1; });
+      if (!c.length) throw 0;
+      var v = c[0];
       DATA = Object.assign({}, M.DEFAULT_DATA, v); live = true; loading = false;
       note = manual ? 'Datos recargados' : '';
       renderMarket(); renderChart(); renderResult(); renderAge();

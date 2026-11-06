@@ -1,7 +1,7 @@
 {
- "anclaje": 18.7497,
- "asof": "2026-11-05T07:38",
- "cierreAnterior": 18.6089,
+ "anclaje": 18.7427,
+ "asof": "2026-11-06T06:55",
+ "cierreAnterior": 18.74,
  "eventos": [
   {
    "confirmado": true,
@@ -65,8 +65,8 @@
   "2027-02-15",
   "2027-03-15"
  ],
- "fix": 18.6285,
- "fixFecha": "2026-11-04",
+ "fix": 18.7147,
+ "fixFecha": "2026-11-05",
  "fixHoy": null,
  "fixes": [
   {
@@ -84,18 +84,22 @@
   {
    "fecha": "2026-11-04",
    "valor": 18.6285
+  },
+  {
+   "fecha": "2026-11-05",
+   "valor": 18.7147
   }
  ],
- "fuente": "Tribuna 07:38 (18.5805, cierre prev. 18.6089, rango 18.5408-18.6354); verif. Infobae/Dow Jones 06:31 18.57. FIX vigente: 4 nov (18.6285)",
+ "fuente": "Infobae/Dow Jones apertura 18.71 (~07:00, cierre prev. 18.76); Milenio 18.71; ABC 18.74. Cierre 5 nov 18.74 (Publimetro). Rango dia aun no disponible. FIX vigente: 5 nov (18.7147)",
  "rangoDia": [
-  18.5408,
-  18.6354
+  18.71,
+  18.74
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 18.5805,
+ "spot": 18.71,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [

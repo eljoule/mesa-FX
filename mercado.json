@@ -1,6 +1,6 @@
 {
  "anclaje": 18.7239,
- "asof": "2026-11-09T06:16",
+ "asof": "2026-11-09T10:37",
  "cierreAnterior": 18.63,
  "eventos": [
   {
@@ -94,16 +94,16 @@
    "valor": 18.6297
   }
  ],
- "fuente": "Infobae/Dow Jones apertura 18.56 (~06:16 CDMX, cierre prev. 18.63); Milenio/Bloomberg 18.55; Heraldo 18.58. Rango dia aun no disponible. FIX vigente: 6 nov (18.6297, DOF 9 nov)",
+ "fuente": "Bloomberg vía El Financiero 18.58 (10:37 CDMX); Tribuna/Investing 18.59 (~06:19, apertura 18.61, rango 18.55-18.65). FIX vigente: 6 nov (18.6297)",
  "rangoDia": [
-  18.56,
-  18.63
+  18.55,
+  18.65
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 18.56,
+ "spot": 18.58,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [

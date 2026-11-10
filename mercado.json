@@ -1,7 +1,7 @@
 {
- "anclaje": 18.7239,
- "asof": "2026-11-09T10:37",
- "cierreAnterior": 18.63,
+ "anclaje": 18.7059,
+ "asof": "2026-11-10T05:30",
+ "cierreAnterior": 18.53,
  "eventos": [
   {
    "confirmado": true,
@@ -65,8 +65,8 @@
   "2027-02-15",
   "2027-03-15"
  ],
- "fix": 18.6297,
- "fixFecha": "2026-11-06",
+ "fix": 18.5983,
+ "fixFecha": "2026-11-09",
  "fixHoy": null,
  "fixes": [
   {
@@ -92,18 +92,22 @@
   {
    "fecha": "2026-11-06",
    "valor": 18.6297
+  },
+  {
+   "fecha": "2026-11-09",
+   "valor": 18.5983
   }
  ],
- "fuente": "Bloomberg vía El Financiero 18.58 (10:37 CDMX); Tribuna/Investing 18.59 (~06:19, apertura 18.61, rango 18.55-18.65). FIX vigente: 6 nov (18.6297)",
+ "fuente": "Heraldo Binario 18.5298 (05:30 CDMX); Infobae ~18.5 (apertura, cierre previo 18.53); Heraldo de México 18.51 (Investing). FIX vigente: 9 nov (18.5983)",
  "rangoDia": [
-  18.55,
-  18.65
+  18.51,
+  18.53
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 18.58,
+ "spot": 18.53,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [

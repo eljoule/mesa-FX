@@ -1,7 +1,7 @@
 {
- "anclaje": 18.7012,
- "asof": "2026-11-11T08:18",
- "cierreAnterior": 18.6232,
+ "anclaje": 18.692,
+ "asof": "2026-11-12T06:16",
+ "cierreAnterior": 18.61,
  "eventos": [
   {
    "confirmado": true,
@@ -65,8 +65,8 @@
   "2027-02-15",
   "2027-03-15"
  ],
- "fix": 18.6678,
- "fixFecha": "2026-11-10",
+ "fix": 18.6192,
+ "fixFecha": "2026-11-11",
  "fixHoy": null,
  "fixes": [
   {
@@ -100,18 +100,22 @@
   {
    "fecha": "2026-11-10",
    "valor": 18.6678
+  },
+  {
+   "fecha": "2026-11-11",
+   "valor": 18.6192
   }
  ],
- "fuente": "Excélsior/Reuters 18.6606 (08:18 CDMX, peso -0.23%); Bloomberg Línea 18.6483 (apertura 18.6243, cierre previo 18.6232, rango 18.563-18.6269). FIX vigente: 10 nov (18.6678, Banxico)",
+ "fuente": "Infobae 18.62 (apertura, 06:16 CDMX, +0.13%, cierre previo 18.60); El Comercio apertura 18.61; cierre 11 nov 18.61 (Banxico, rango 18.56-18.69). FIX vigente: 11 nov (18.6192, Banxico)",
  "rangoDia": [
-  18.563,
-  18.6606
+  18.61,
+  18.62
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 18.6606,
+ "spot": 18.62,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [

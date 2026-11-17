@@ -1,6 +1,6 @@
 {
  "anclaje": 18.6585,
- "asof": "2026-11-17T12:53",
+ "asof": "2026-11-17T08:41",
  "cierreAnterior": 18.5131,
  "eventos": [
   {
@@ -110,7 +110,7 @@
    "valor": 18.5525
   }
  ],
- "fuente": "Tribuna 18.4908 (-0.12%, nota 17 nov, hora no publicada, consultada 12:53 CDMX), cierre previo 18.5131, rango 18.4582-18.5353; confirmado por Publimetro apertura 18.51 (nota matutina 17 nov). FIX vigente: 13 nov (18.5525, Banxico); FIX de hoy aún no publicado",
+ "fuente": "Tribuna 18.4908 (-0.12%, nota 08:41 CDMX), cierre previo 18.5131, rango 18.4582-18.5353; confirmado por Publimetro apertura 18.51 (nota matutina 17 nov). FIX vigente: 13 nov (18.5525, Banxico); FIX de hoy aún no publicado",
  "rangoDia": [
   18.4582,
   18.5353

@@ -1,7 +1,7 @@
 {
  "anclaje": 18.6585,
- "asof": "2026-11-17T06:55",
- "cierreAnterior": 18.5201,
+ "asof": "2026-11-17T12:53",
+ "cierreAnterior": 18.5131,
  "eventos": [
   {
    "confirmado": true,
@@ -110,16 +110,16 @@
    "valor": 18.5525
   }
  ],
- "fuente": "Milenio/Bloomberg 18.47 (apertura interbancaria, -0.25%; nota temprana 17 nov, hora no publicada, consultada 06:55 CDMX); confirmado por La Razón apertura 18.51, rango 18.4618-18.5277 (nota 06:21 CDMX). Cierre previo Bloomberg 18.5201. FIX vigente: 13 nov (18.5525, Banxico); FIX de hoy aún no publicado",
+ "fuente": "Tribuna 18.4908 (-0.12%, nota 17 nov, hora no publicada, consultada 12:53 CDMX), cierre previo 18.5131, rango 18.4582-18.5353; confirmado por Publimetro apertura 18.51 (nota matutina 17 nov). FIX vigente: 13 nov (18.5525, Banxico); FIX de hoy aún no publicado",
  "rangoDia": [
-  18.4618,
-  18.5277
+  18.4582,
+  18.5353
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 18.47,
+ "spot": 18.4908,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [

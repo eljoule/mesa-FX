@@ -1,7 +1,7 @@
 {
- "anclaje": 18.6585,
- "asof": "2026-11-17T08:41",
- "cierreAnterior": 18.5131,
+ "anclaje": 18.6256,
+ "asof": "2026-11-18T06:05",
+ "cierreAnterior": 18.4168,
  "eventos": [
   {
    "confirmado": true,
@@ -65,14 +65,10 @@
   "2027-02-15",
   "2027-03-15"
  ],
- "fix": 18.5525,
- "fixFecha": "2026-11-13",
+ "fix": 18.4677,
+ "fixFecha": "2026-11-17",
  "fixHoy": null,
  "fixes": [
-  {
-   "fecha": "2026-10-30",
-   "valor": 18.7962
-  },
   {
    "fecha": "2026-11-03",
    "valor": 18.7592
@@ -108,18 +104,22 @@
   {
    "fecha": "2026-11-13",
    "valor": 18.5525
+  },
+  {
+   "fecha": "2026-11-17",
+   "valor": 18.4677
   }
  ],
- "fuente": "Tribuna 18.4908 (-0.12%, nota 08:41 CDMX), cierre previo 18.5131, rango 18.4582-18.5353; confirmado por Publimetro apertura 18.51 (nota matutina 17 nov). FIX vigente: 13 nov (18.5525, Banxico); FIX de hoy aún no publicado",
+ "fuente": "Bloomberg Línea 18.5295 (tabla 12:05 UTC = 06:05 CDMX, +0.61%), cierre previo 18.4168, rango 18.4115-18.5423; sin nota de hoy en Tribuna/Publimetro/Infobae; coincide con apertura interbancaria Bloomberg 18.54 citada por la prensa matutina 18 nov. FIX vigente: 17 nov (18.4677, Banxico); FIX de hoy aún no publicado",
  "rangoDia": [
-  18.4582,
-  18.5353
+  18.4115,
+  18.5423
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 18.4908,
+ "spot": 18.5295,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [

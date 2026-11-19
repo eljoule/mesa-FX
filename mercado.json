@@ -1,7 +1,7 @@
 {
  "anclaje": 18.6169,
- "asof": "2026-11-19T06:55",
- "cierreAnterior": 18.864,
+ "asof": "2026-11-19T09:58",
+ "cierreAnterior": 18.8365,
  "eventos": [
   {
    "confirmado": true,
@@ -110,16 +110,16 @@
    "valor": 18.6723
   }
  ],
- "fuente": "Heraldo Binario interbancario apertura 18.8753 (+0.0388) y N+ ~18.87 (nota 01:23, act. temprano) el 19 nov; cierre previo 18.864 (N+, peso -2.4% el 18 nov; Banxico 18.8456). Hora exacta de cotización no publicada; asof = hora de consulta 06:55 CDMX. FIX vigente: 18 nov (18.6723); FIX de hoy no publicado (<13:00 CDMX)",
+ "fuente": "El Financiero 19.04 (nota 09:58 CDMX, peso -0.9%, peor nivel desde jun-2025) y El Congresista 19.0397 (+1.08%, rango 18.7762-19.0560); Tribuna 07:21: 18.8783, cierre previo 18.8365. Hora exacta de cotización no publicada; asof = hora de la nota. FIX vigente: 18 nov (18.6723); FIX de hoy no publicado (<13:00 CDMX)",
  "rangoDia": [
-  18.87,
-  18.8753
+  18.7762,
+  19.056
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 18.875,
+ "spot": 19.04,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [

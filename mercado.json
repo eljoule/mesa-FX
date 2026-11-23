@@ -1,6 +1,6 @@
 {
  "anclaje": 18.6876,
- "asof": "2026-11-23T06:38",
+ "asof": "2026-11-23T09:48",
  "cierreAnterior": 19.163,
  "eventos": [
   {
@@ -110,16 +110,16 @@
    "valor": 19.0228
   }
  ],
- "fuente": "El Congresista/nnc 19.11 interbancario (06:38, más reciente); Infobae/Dow Jones apertura 19.18 (06:16), cierre previo 19.163 (Banxico 20 nov). Rango = cotizaciones observadas hoy. FIX vigente 20 nov (19.0228); FIX de hoy no publicado (<13:00 CDMX)",
+ "fuente": "El Congresista 19.1337 interbancario (09:48), apertura 19.141, rango 19.0686-19.2642; El Financiero/Bloomberg ~19.16 (10:24), cierre previo 19.16. FIX vigente 20 nov (19.0228); FIX de hoy no publicado (<13:00 CDMX)",
  "rangoDia": [
-  19.11,
-  19.18
+  19.0686,
+  19.2642
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 19.11,
+ "spot": 19.1337,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [

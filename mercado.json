@@ -1,7 +1,7 @@
 {
- "anclaje": 18.6568,
- "asof": "2026-11-20T08:35",
- "cierreAnterior": 19.075,
+ "anclaje": 18.6876,
+ "asof": "2026-11-23T06:38",
+ "cierreAnterior": 19.163,
  "eventos": [
   {
    "confirmado": true,
@@ -65,14 +65,10 @@
   "2027-02-15",
   "2027-03-15"
  ],
- "fix": 19.027,
- "fixFecha": "2026-11-19",
+ "fix": 19.0228,
+ "fixFecha": "2026-11-20",
  "fixHoy": null,
  "fixes": [
-  {
-   "fecha": "2026-11-05",
-   "valor": 18.7147
-  },
   {
    "fecha": "2026-11-06",
    "valor": 18.6297
@@ -108,18 +104,22 @@
   {
    "fecha": "2026-11-19",
    "valor": 19.027
+  },
+  {
+   "fecha": "2026-11-20",
+   "valor": 19.0228
   }
  ],
- "fuente": "Expreso/Bloomberg 19.04 (nota 08:35, tras apertura 19.05); Tribuna Forex 19.0673 (07:35), cierre previo 19.075, rango 19.0397-19.1508. FIX vigente 19 nov (19.0270); FIX de hoy no publicado (<13:00 CDMX)",
+ "fuente": "El Congresista/nnc 19.11 interbancario (06:38, más reciente); Infobae/Dow Jones apertura 19.18 (06:16), cierre previo 19.163 (Banxico 20 nov). Rango = cotizaciones observadas hoy. FIX vigente 20 nov (19.0228); FIX de hoy no publicado (<13:00 CDMX)",
  "rangoDia": [
-  19.0397,
-  19.1508
+  19.11,
+  19.18
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 19.04,
+ "spot": 19.11,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [

@@ -1,7 +1,7 @@
 {
- "anclaje": 18.7411,
- "asof": "2026-11-24T10:29",
- "cierreAnterior": 19.164,
+ "anclaje": 18.818,
+ "asof": "2026-11-25T11:55",
+ "cierreAnterior": 19.4123,
  "eventos": [
   {
    "confirmado": true,
@@ -65,14 +65,10 @@
   "2027-02-15",
   "2027-03-15"
  ],
- "fix": 19.1648,
- "fixFecha": "2026-11-23",
+ "fix": 19.3668,
+ "fixFecha": "2026-11-24",
  "fixHoy": null,
  "fixes": [
-  {
-   "fecha": "2026-11-09",
-   "valor": 18.5983
-  },
   {
    "fecha": "2026-11-10",
    "valor": 18.6678
@@ -108,18 +104,22 @@
   {
    "fecha": "2026-11-23",
    "valor": 19.1648
+  },
+  {
+   "fecha": "2026-11-24",
+   "valor": 19.3668
   }
  ],
- "fuente": "Revista Espejo 19.3877 (pub. 10:29 CDMX, +1.17%); Tribuna 19.3149 (08:24), cierre previo 19.164, apertura 19.1725, rango 19.1425-19.3479. Se usa el dato más reciente (difieren por la hora). FIX vigente 23 nov (19.1648); FIX de hoy no publicado (<13:00 CDMX)",
+ "fuente": "Bloomberg Línea 19.6300 (11:55 CDMX), cierre previo/apertura 19.4123, rango 19.4067-19.8499; Publimetro 19.6782 y Enfoque 19.7512 (mañana, más tempranos). Se usa el dato más reciente. FIX vigente 24 nov (19.3668); FIX de hoy no publicado (<13:00 CDMX)",
  "rangoDia": [
-  19.1425,
-  19.3877
+  19.4067,
+  19.8499
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 19.3877,
+ "spot": 19.63,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [

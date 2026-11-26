@@ -1,7 +1,7 @@
 {
  "anclaje": 18.9216,
- "asof": "2026-11-26T06:45",
- "cierreAnterior": 19.5947,
+ "asof": "2026-11-26T06:57",
+ "cierreAnterior": 19.5948,
  "eventos": [
   {
    "confirmado": true,
@@ -110,16 +110,16 @@
    "valor": 19.704
   }
  ],
- "fuente": "Bloomberg Línea 19.6282 (06:45 CDMX), cierre previo 19.5947, apertura 19.5948, rango 19.5623-19.6968; Infobae/Dow Jones 19.69 (06:16 CDMX, cierre previo 19.59) y Heraldo Binario 19.583 (05:30, más temprano). Se usa el dato más reciente. FIX vigente 25 nov (19.7040, DOF 26 nov); FIX de hoy no publicado (<13:00 CDMX)",
+ "fuente": "Tribuna 19.6414 (06:57 CDMX, apertura 19.5758, rango 19.5620-19.6968); confirma Crónica 19.64 (09:28 CDMX). Cierre previo Banxico 19.5948. FIX vigente 25 nov (19.7040, DOF 26 nov); FIX de hoy no publicado (<13:00 CDMX)",
  "rangoDia": [
-  19.5623,
+  19.562,
   19.6968
  ],
  "soporte": [
   18.45,
   18.6
  ],
- "spot": 19.6282,
+ "spot": 19.6414,
  "tasaMXN": 6.5,
  "tasaUSD": 3.9,
  "techo": [
